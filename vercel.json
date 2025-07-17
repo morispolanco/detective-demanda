@@ -1,0 +1,3 @@
+{
+  "installCommand": "echo 'Skipping: This project uses import maps, not npm.'"
+}
